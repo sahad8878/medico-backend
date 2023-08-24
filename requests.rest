@@ -1,0 +1,7 @@
+
+POST   http://localhost:8080/clientSignup
+
+# GET http://localhost:8080
+
+###
+#  POST   http://localhost:8080/api/client/clientSignup
